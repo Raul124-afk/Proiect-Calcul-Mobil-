@@ -5,7 +5,7 @@
 
 **Tema aleasă: Jobs**
 
-**Membrii echipei: Raul Berinde și Nicu Biriș**
+**Membrii echipei: Raul Berinde, Nicu Biriș și Sălnicean Flaviu**
 
 Am ales tema „Jobs” deoarece ni se pare utilă o aplicație care să ajute persoanele aflate în căutarea unui loc de muncă. Aplicația noastră se va numi **JobNest** și va fi dedicată în special ofertelor de muncă remote, adică joburilor care permit lucrul de la distanță.
 
@@ -15,9 +15,11 @@ Pentru a îndeplini și cerințe de notare superioară, vrem să adăugăm patru
 
 **Împărțirea taskurilor**
 
-Am împărțit sarcinile în funcție de părțile principale ale aplicației. Raul Berinde se va ocupa în special de interfață, lista de joburi, navigarea dintre ecrane, salvarea locală a ofertelor favorite, notificări și citirea vocală.
+Am împărțit sarcinile în funcție de părțile principale ale aplicației. Raul Berinde se va ocupa în special de interfață, ecranul cu lista de joburi, căutare și filtrare, navigarea dintre ecrane și citirea vocală a descrierilor prin text-to-speech.
 
-Nicu Biriș se va ocupa de ecranul cu detaliile joburilor, conectarea la API, integrarea Firebase și folosirea locației telefonului.
+Nicu Biriș se va ocupa de conectarea la API-ul extern pentru preluarea datelor, integrarea Firebase pentru sincronizarea favoritelor în cloud și sistemul de notificări pentru oferte noi.
+
+Sălnicean Flaviu se va ocupa de ecranul cu detaliile unei oferte, salvarea locală a ofertelor favorite pe telefon, ecranul de setări și folosirea opțională a locației telefonului pentru verificarea ofertelor potrivite regiunii.
 
 Vom lucra împreună la verificarea aplicației, corectarea problemelor și prezentarea finală. Fiecare dintre noi va avea taskuri și commit-uri proprii în repository-ul comun de GitHub, iar progresul îl vom urmări prin GitHub Projects.
 
